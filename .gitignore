@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code (if you ever use it)
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Maven
+target/
+dependency-reduced-pom.xml
+release.properties
+
+# Logs
+*.log
+
+# Temporary files
+*.class
+*.swp
+*.swo
